@@ -1,0 +1,85 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #666;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 1.5em; 
+	background-color: #ffffff;
+	background-image: url(imagesdop/templatemo_body.jpg);
+	background-repeat: repeat;
+	background-position: top center
+}
+
+p { margin: 0 0 10px 0; padding: 0; text-align: justify}
+img { border: none; }
+blockquote { font-style: italic; margin: 0 0 0 10px;}
+cite { font-weight: bold; color:#83cf32; }
+cite span { color: #666; }
+em { color: #000; font-weight: 400 }
+
+h1, h2, h3, h4, h5, h6 { color: #000; font-weight: normal;  }
+h1 { font-size: 34px; margin: 0 0 20px; padding: 5px 0 }
+h2 { font-size: 28px; margin: 0 0 20px; padding: 5px 0 10px 0; color: #fff }
+h3 { font-size: 20px; margin: 0 0 15px; padding: 0; }
+h4 { font-size: 18px; margin: 0 0 15px; padding: 0; }
+h5 { font-size: 16px; margin: 0 0 10px; padding: 0;  }
+h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
+
+.cleaner { clear: both }
+.h10 { height: 10px }
+.h20 { height: 20px }
+.h30 { height: 30px }
+.h40 { height: 40px }
+.h50 { height: 50px }
+.h60 { height: 60px }
+
+.nounderline {
+  text-decoration: none;
+  color: #000 !important;
+}
+
+.float_l { float: left }
+.float_r { float: right }
+
+.image_fl { float: left; margin: 3px 20px 0 0 }
+.image_fr { float: right; margin: 3px 0 0 20px }
+
+
+#templatemo_body_wrapper {
+	width: 100%;
+	background: url(imagesdop/templatemo_wrapper.jpg) repeat-x top
+}
+
+#templatemo_wrapper {
+	width: 808px;
+	margin: 0 auto;
+	background: url(imagesdop/templatemo_header1.jpg) top center no-repeat
+}
+
+#templatemo_header {
+	width: 800px;
+	height: 50px;
+	padding: 40px 4px 20px;
+}
+
+
+.inscription h3{
+  text-align: center;
+}
+.inscription {
+  max-width: 350px;
+}
+
+.content_box { clear: both; width: 808px; }
+.content_title { width: 728px; height: 44px; padding: 40px 40px 0 }
+.content_ctf {  background: url(imagesdop/templatemo_ctf.png) }
+.content_ct {  background: url(imagesdop/templatemo_ct.png) }
+.content { padding: 40px 40px 10px; background: url(imagesdop/templatemo_content.png) repeat-y }
+.content_bottom { width: 808px; height: 30px; padding-top: 5px; }
+.content_cbf { background: url(imagesdop/templatemo_cbl.png) }
+.content_cb { background: url(imagesdop/templatemo_cb.png) }
+
+
+a.gototop { display: block; width: 108px; margin: 0 auto; text-align: center; color: #6bb41e; font-weight: 700; text-decoration: none }
+a.gototop:hover { color: #3f3b2a }
